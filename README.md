@@ -52,10 +52,10 @@ Results are displayed in real-time in the terminal and automatically saved to a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/ilrksy/UserReccon.git
+git clone https://github.com/ilrksy/UserRecon.git
 
 # Navigate into the directory
-cd UserReccon
+cd UserRecon
 
 # Make the script executable
 chmod +x userrecon.sh
@@ -67,7 +67,7 @@ chmod +x userrecon.sh
 ### One-Liner
 
 ```bash
-git clone https://github.com/ilrksy/UserReccon.git && cd UserReccon && chmod +x userrecon.sh && ./userrecon.sh
+git clone https://github.com/ilrksy/UserRecon.git && cd UserRecon && chmod +x userrecon.sh && ./userrecon.sh
 ```
 
 ## 🚀 Usage
@@ -209,8 +209,7 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](./LICENSE) file for details.
 
-Original concept by [@thelinuxchoice](https://github.com/thelinuxchoice/userrecon).  
-Modified and maintained by [@ilrksy](https://github.com/ilrksy).
+Original concept by [@ilrksy](https://github.com/ilrksy). 
 
 ---
 
